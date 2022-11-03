@@ -11,4 +11,5 @@ aside img {
 main h2 {
   background-color: yellow;
   margin-left: 30%;
+  width: 10em;
 }

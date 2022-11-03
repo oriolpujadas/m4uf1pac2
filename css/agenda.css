@@ -9,3 +9,9 @@ table{
 table td{
     border: 2px solid black;
 }
+main{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+   
