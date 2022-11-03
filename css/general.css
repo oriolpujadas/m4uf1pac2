@@ -1,0 +1,10 @@
+aside {
+  padding: 1em ;
+}
+
+aside img {
+  float: left;
+  height: 25em;
+  margin-right: 2em;
+}
+
