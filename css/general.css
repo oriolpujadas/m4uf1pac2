@@ -8,3 +8,7 @@ aside img {
   margin-right: 2em;
 }
 
+main h2 {
+  background-color: yellow;
+  margin-left: 30%;
+}
